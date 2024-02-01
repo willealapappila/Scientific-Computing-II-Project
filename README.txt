@@ -1,3 +1,5 @@
+A self-avoiding 2D random walk in Fortran.
+
 Running instructions:
 
 Run the program by ./a.out *the number of simulations* *print values to output file?* *SAW or normal random walk?*
